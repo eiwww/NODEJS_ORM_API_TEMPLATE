@@ -10,7 +10,7 @@ Config .env file for your DATABASE and JWT
 " sequelize db:migrate " or " npx sequelize-cli db:migrate "
 
 # ( Optional to seed data)
-command: " sequelze db:seed:all " or " npx sequelize-cli db:seed:all "
+command: " sequelze db:seed:all " or " npx sequelize-cli db:seed:all "<br>
 PS: run only one time
 
 # Run the API use:
