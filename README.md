@@ -11,6 +11,7 @@ Config .env file for your DATABASE and JWT
 
 # ( Optional to seed data)
 command: " sequelze db:seed:all " or " npx sequelize-cli db:seed:all "
+PS: run only one time
 
 # Run the API use:
 " npm run dev "
